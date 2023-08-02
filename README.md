@@ -18,3 +18,9 @@ options:
   -p PASSWORD, --password PASSWORD
                         Site Server Admin Password or Hash (LMHASH:NTHASH
 ```
+### Installation
+```
+git clone https://github.com/garrettfoster13/smsadmin.git
+cd smsadmin
+pip3 install -r requirements.txt
+```
